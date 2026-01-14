@@ -44,6 +44,4 @@ This page provides an overall snapshot of the data job market. It highlights job
 
 ![Data Jobs Dashboard Page 2](../Resources/Images/Project1_Dashboard_Page2.gif)  
 
-This page allows the users to go deeper by selecting a field in the first page to drill through this page and show more specific details 
-
 This page lets users dive deeper into specific roles. By selecting a job title on the first page, users can drill through to see more detailed and role-specific insights, enabling a more focused analysis.

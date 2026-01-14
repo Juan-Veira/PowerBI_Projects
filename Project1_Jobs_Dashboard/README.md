@@ -1,5 +1,5 @@
 
-# Jobs Dashboard with Power BI
+# Data Jobs Dashboard with Power BI
 
 ![Data Jobs Dashboard GIF](../Resources/Images/Project1_Dashboard_Overview.gif)  
 

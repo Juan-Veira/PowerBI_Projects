@@ -5,9 +5,6 @@
 
 This dashboard (V2.0) helps users explore the data job market through a clean, single-page interface. Using 2024 job posting data (roles, salaries, locations), it enables job seekers and career transitioners to quickly understand market trends and compensation.
 
-### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard_V2.pbix`](Data_Jobs_Dashboard_V2.pbix).
-
 ## Skills Showcased
 
 * **Dashboard Design:** Creating an intuitive and visually appealing layout
@@ -25,6 +22,9 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard_V2.pbix`](Da
 
 ### Dashboard Overview
 
-![Data Jobs Dashboard GIF](Images/V2_Dashboard_Overview.gif)  
-  
+![Data Jobs Dashboard GIF](Images/V2_Dashboard_Overview.gif)
+
+**You can find the dashboard file in the project folder:** [`Data_Jobs_Dashboard_V2`](./)
+
+
 This updated version (V2.0) demonstrates how Power BI can transform raw job posting data into a **practical decision-making tool**. It enables users to explore market trends, filter insights dynamically, and better understand the data job landscape.

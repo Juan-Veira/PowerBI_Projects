@@ -1,17 +1,16 @@
 
 # Data Jobs Dashboard with Power BI V1
 
-![Data Jobs Dashboard GIF](Images/V1_Dashboard_Overview.gif)  
+![Data Jobs Dashboard GIF](Images/V1_Dashboard_Overview.gif)
+
+**You can find the dashboard file in the project folder:** [`Data_Jobs_Dashboard_V1`](./)
+
 
 ## Introduction
 
 This dashboard is designed to help users explore the data job market in a simple and intuitive way. By slicing, filtering, and drilling down into the data, you can quickly spot patterns and answer real questions about salaries, roles, and trends in the data field.
 
 You’ll find salary insights by job title, year, and hourly rate, with the ability to dig deeper depending on the role you’re interested in. The goal is to give you a clear picture of the market so you can make more confident, better-informed career decisions.
-
-
-### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard_V1.pbix`](Data_Jobs_Dashboard_V1.pbix).
 
 ## Skills Showcased
 
@@ -43,3 +42,6 @@ This page provides an overall snapshot of the data job market. It highlights job
 ![Data Jobs Dashboard Page 2](Images/V1_Dashboard_Page2.gif)  
 
 This page lets users dive deeper into specific roles. By selecting a job title on the first page, users can drill through to see more detailed and role-specific insights, enabling a more focused analysis.
+
+
+

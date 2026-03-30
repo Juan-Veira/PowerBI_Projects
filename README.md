@@ -10,9 +10,7 @@ Explore the dashboards below. Each project includes a dedicated README with deta
 
 ## Data Jobs Dashboard V1
 
-![Data Jobs Dashboard V1](Data_Jobs_Dashboard\Data_Jobs_Dashboard_V1\Images\V1_Dashboard_Overview.gif)
-
-**View the dashboard here:** [Data Jobs Dashboard V1](Data_Jobs_Dashboard\Data_Jobs_Dashboard_V1\Data_Jobs_Dashboard_V1.pbix)
+![Data Jobs Dashboard V1](Data_Jobs_Dashboard/Data_Jobs_Dashboard_V1/Images/V1_Dashboard_Overview.gif)
 
 **Key Power Bl Skills Utilized:**
 
@@ -26,13 +24,11 @@ Explore the dashboards below. Each project includes a dedicated README with deta
 * **Drill-Through Analysis:** Enabling deep dives from summary to detail views
 
 
-**View Full Project README here:** [Data Jobs Dashboard V1](Data_Jobs_Dashboard\Data_Jobs_Dashboard_V1\README.md)
+**View Full Project README here:** [Data Jobs Dashboard V1](Data_Jobs_Dashboard/Data_Jobs_Dashboard_V1/README.md)
 
 ## Data Jobs Dashboard V2
 
-![Data Jobs Dashboard V2](Data_Jobs_Dashboard\Data_Jobs_Dashboard_V2\Images\V2_Dashboard_Overview.gif)
-
-**View the dashboard here:** [Data Jobs Dashboard V2](Data_Jobs_Dashboard\Data_Jobs_Dashboard_V2\Data_Jobs_Dashboard_V2.pbix)
+![Data Jobs Dashboard V2](Data_Jobs_Dashboard/Data_Jobs_Dashboard_V2/Images/V2_Dashboard_Overview.gif)
 
 **Key Power Bl Skills Utilized:**
 
@@ -44,6 +40,6 @@ Explore the dashboards below. Each project includes a dedicated README with deta
 * **User Interactivity:** Slicers for dynamic filtering
 * **UX Optimization:** Buttons for smoother navigation and flow
 
-**View Full Project README here:** [Data Jobs Dashboard V2](Data_Jobs_Dashboard\Data_Jobs_Dashboard_V2\README.md)
+**View Full Project README here:** [Data Jobs Dashboard V2](Data_Jobs_Dashboard/Data_Jobs_Dashboard_V2/README.md)
 
 
